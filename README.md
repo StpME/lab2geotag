@@ -29,3 +29,7 @@ Some key components of this analysis that can be improved upon is expanding the 
 
 ## Unexpected Outcomes
 From the data, I had expected areas like Texas to be more directly similar to right-leaning areas such as Oklahoma. Instead, most debate around climate change revolved around oil and gas companies and energy rather than the validity behind the science. 
+
+[Dataset 1 - Seattle](assets/twsearch-result-1.csv)
+[Dataset 2 - Houston](assets/twsearch-result-2.csv)
+[Dataset 3 - Oklahoma City](assets/twsearch-result-3.csv)
